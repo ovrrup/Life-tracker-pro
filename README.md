@@ -129,7 +129,7 @@ The `DB.exportAll()` and `DB.importAll()` utilities allow full data portability 
 
 ### Install the Debug APK
 
-1. Download `app-debug.apk` from the [Releases](../../releases) page
+1. Download `app-debug.apk` from the [Releases](https://github.com/ovrrup/Life-Tracker-Pro/releases) page
 2. Transfer to your Android device
 3. Tap the APK file and follow the install prompts
 4. Open **Life Tracker Pro** from your app drawer
