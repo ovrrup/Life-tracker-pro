@@ -162,8 +162,11 @@ Then build and run via Android Studio, or generate an APK via **Build → Build 
 
 ## AI Coach Setup
 
-The AI Coach feature requires an API key. "it is currently not working."
+The AI Coach feature requires an API key. 
+'''
+"it is currently not working."
 Stay updated for future changes.
+
 ---
 
 ## Project Structure
